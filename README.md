@@ -1,5 +1,5 @@
 # Ehab-Ahmed-Saber
-# Hi there, I'm Ehqb Ahmed 👋
+# Hi there, I'm Ehab Ahmed 👋
 ### Mobile Application Developer | Flutter & Dart Expert
 
 Highly passionate Mobile Application Developer specialized in building high-performance, scalable, and beautifully crafted cross-platform applications using **Flutter & Dart**. Focused on writing clean, maintainable code and delivering premium user experiences.
@@ -18,7 +18,7 @@ Highly passionate Mobile Application Developer specialized in building high-perf
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Dart, Kotlin (Basics), Java (Basics) |
+| **Languages** | Dart, C#, C++, Python, Kotlin (Basics), Java (Basics) |
 | **Frameworks** | Flutter |
 | **State Management** | BLoC, Cubit, Provider, GetX |
 | **Backend & APIs** | Firebase, REST APIs, JSON, WebSockets |
@@ -36,5 +36,3 @@ Highly passionate Mobile Application Developer specialized in building high-perf
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehab-ahmed-07291b221)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehabahmedelsheikh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
